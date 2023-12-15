@@ -3,31 +3,31 @@
 	<food>
 		<name>Belgian Waffles</name>
 		<price>$5.95</price>
-		<desc>Two of our famous Belgian Waffles with plenty of real maple syrup</desc>
+		<desc>Dos de nuestros famosos Waffles belgas con un montón de jarabe de arce real</desc>
 		<calories>650</calories>
 	</food>
 	<food>
-		<name>Strawberry Belgian Waffles</name>
+		<name>Waffles belgas de fresa</name>
 		<price>$7.95</price>
-		<desc>Light Belgian waffles covered with strawberries and whipped cream</desc>
+		<desc>Guerras belgas ligeras cubiertas de fresas y crema batida</desc>
 		<calories>900</calories>
 	</food>
 	<food>
-		<name>Berry-Berry Belgian Waffles</name>
+		<name>Guerry-Berry-Berry belga</name>
 		<price>$8.95</price>
-		<desc>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</desc>
+		<desc>Ligero belga cubierto de un surtido de bayas frescas y crema látigada</desc>
 		<calories>900</calories>
 	</food>
 	<food>
-		<name>French Toast</name>
+		<name>Tostada francesa</name>
 		<price>$4.50</price>
-		<desc>Thick slices made from our homemade sourdough bread</desc>
+		<desc>Rebanadas gruesas hechas con nuestro pan casero de masa de procedencia</desc>
 		<calories>600</calories>
 	</food>
 	<food>
-		<name>Homestyle Breakfast</name>
+		<name>Desayuno de estilo</name>
 		<price>$6.95</price>
-		<desc>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</desc>
+		<desc>Dos huevos, tocino o salchicha, tostadas, y nuestros siempre populares maxilares hash</desc>
 		<calories>950</calories>
 	</food>
 </breakfast_menu>
