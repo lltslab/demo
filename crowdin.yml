@@ -2,5 +2,7 @@ files:
   - source: '*.xml'
     translation: '%file_name%_Spanish.%file_extension%'
     translate_attributes: 0
+  - source: '*.xml'
+    translation: '%file_name%_es.%file_extension%'
 bundles:
   - 2
