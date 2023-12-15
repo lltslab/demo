@@ -1,0 +1,4 @@
+files:
+  - source: '*.xml'
+    translation: '%file_name%_Spanish.%file_extension%'
+    translate_attributes: 0
