@@ -1,0 +1,5 @@
+files:
+  - source: '*.xml'
+    translation: '%original_path%/%original_file_name%_%two_letters_code%.%file_extension%'
+    translatable_elements:
+      - desc
